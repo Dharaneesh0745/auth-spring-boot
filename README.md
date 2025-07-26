@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![LoginSignupLogo](https://github.com/Sarthakverse/Jwt-Authentication-Authorization-for-SpringBoot-3.3.1/assets/117356021/bf5b6453-8614-4799-8753-c10edfe815a4)
 
 # Registration and Login
@@ -120,3 +121,6 @@ Don't forget to give the project a star! Thanks again!
 
 
 
+=======
+# auth-spring-boot
+>>>>>>> 22fa4b932cde945b23bd2cef72f1fc9019ce9648
